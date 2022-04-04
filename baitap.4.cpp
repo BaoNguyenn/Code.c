@@ -87,6 +87,7 @@ void uocsox(int a[], int n, int x)
 		printf("\n Phan tu A[%d] co gia tri = %d la uoc so cua x\n", i,a[i]);
 	}
 }
+/* 
 void thaythe(int a[], int n, int x)
 {
 	int y=0;
@@ -100,4 +101,5 @@ void thaythe(int a[], int n, int x)
 		}
 	}
 	
-}
+} 
+*/
